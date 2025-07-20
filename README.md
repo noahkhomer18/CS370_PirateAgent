@@ -1,7 +1,9 @@
 CS 370: Pirate Intelligent Agent Project
 1. Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
 
-For this project, I was given starter code that included two Python files: TreasureMaze.py and GameExperience.py. These files defined the maze environment and handled the experience replay mechanism. I also received a partially completed Jupyter Notebook (TreasureHuntGame.ipynb) with placeholders and TODO sections. I implemented the deep Q-learning algorithm in the notebook, designed the neural network model, and wrote the training loop to teach the pirate agent how to find the treasure. I added comments and tested the code to ensure the agent could reliably navigate the maze.2. Connect your learning from throughout this course to the larger field of computer science:
+For this project, I was given starter code that included two Python files: TreasureMaze.py and GameExperience.py. These files defined the maze environment and handled the experience replay mechanism. I also received a partially completed Jupyter Notebook (TreasureHuntGame.ipynb) with placeholders and TODO sections. I implemented the deep Q-learning algorithm in the notebook, designed the neural network model, and wrote the training loop to teach the pirate agent how to find the treasure. I added comments and tested the code to ensure the agent could reliably navigate the maze.
+
+2. Connect your learning from throughout this course to the larger field of computer science:
 
 What do computer scientists do and why does it matter?
 Computer scientists tackle tough problems by crafting algorithms, writing software, and building smart systems. This is a big deal because software and AI are now fueling innovation across the board, touching everything from healthcare to even gaming. By developing things like intelligent agents, we can automate tasks, make smarter choices, and create better experiences for people.
